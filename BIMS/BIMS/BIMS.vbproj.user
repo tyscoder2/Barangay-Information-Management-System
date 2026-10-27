@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmAdminDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmCaseRecords.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmCertificateRequests.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmInitialAdminSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmResidentCaseSubmission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmResidentCertificateRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmResidentPortal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmResidentRecords.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmResidentRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmStart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmUserManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
