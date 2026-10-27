@@ -28,8 +28,12 @@ Note: if this one doesn't work, try running the code one-by-one, in order:
 [Demonstration videos here of the program's functions.](https://drive.google.com/drive/folders/1QbrMHMEj4fN2YEFOq7n-kXQ-3s78e5T_?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
 
 Some notes:
+
 -**YOU WILL NEED TO FILL THE DATABASE WITH YOUR OWN INFORMATION!**
+
 -Some database edits were made (such as merging complaints and blotters into case files).
+
 -CRUD is implemented, but deletion makes use of logical deleting rather than hard deleting.
+
 
 A compiled version exists [here](https://github.com/tyscoder2/Barangay-Information-Management-System/releases/tag/v1).
