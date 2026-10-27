@@ -24,4 +24,4 @@ Some notes:
 -Some database edits were made (such as merging complaints and blotters into case files).
 -CRUD is implemented, but deletion makes use of logical deleting rather than hard deleting.
 
-A compiled version exists here (WIP).
+A compiled version exists [here](https://github.com/tyscoder2/Barangay-Information-Management-System/releases/tag/v1).
