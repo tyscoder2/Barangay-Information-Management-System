@@ -14,7 +14,7 @@ Note: if this one doesn't work, try running the code one-by-one, in order:
 * 3_DBCreationFinalAdd.sql
 * 4_DBLogicalDeletionFullCrudAddition.sql
 
-[Video for reference](https://drive.google.com/drive/folders/1QbrMHMEj4fN2YEFOq7n-kXQ-3s78e5T_?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+[Video for reference]([https://drive.google.com/drive/folders/1QbrMHMEj4fN2YEFOq7n-kXQ-3s78e5T_?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto](https://drive.google.com/drive/folders/1vsxiKXc55mg4oABFCQWtEcZR_BKV0iBS?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto))
 
 3) Once all code runs without errors, open the project and run. On opening, you will be prompted to make an Admin account.
 
