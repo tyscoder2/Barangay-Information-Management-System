@@ -1,8 +1,15 @@
 Instructions:
+
 To download, click the green "<> Code" button and "Download Zip". Extract and open with Visual Studio.
 
+
 Before running:
-1) You will need to build the database on your computer first. Setup the internal database: make sure Microsoft.Data.SqlClient is installed for the project. **Also note: if BaranggayInformationSystem database exists before this, delete or rename it to something else!**
+1) You will need to build the database on your computer first. 
+
+Setup the internal database: make sure Microsoft.Data.SqlClient is installed for the project. 
+
+**Also note: if BaranggayInformationSystem database exists before this, delete or rename it to something else!**
+
 2) Create the database if not yet already created.
 * View -> SQL Server Object
 * Then below SQL Server, right-click on "(localdb)\MSSQLLocalDB" and "New Query..."
