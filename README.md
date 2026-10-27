@@ -2,7 +2,7 @@ Instructions:
 To download, click the green "<> Code" button and "Download Zip". Extract and open with Visual Studio.
 
 Before running:
-1) Setup the internal database: make sure Microsoft.Data.SqlClient is installed for the project. **Also note: if BaranggayInformationSystem database exists before this, delete or rename it to something else!**
+1) You will need to build the database on your computer first. Setup the internal database: make sure Microsoft.Data.SqlClient is installed for the project. **Also note: if BaranggayInformationSystem database exists before this, delete or rename it to something else!**
 2) Create the database if not yet already created.
 * View -> SQL Server Object
 * Then below SQL Server, right-click on "(localdb)\MSSQLLocalDB" and "New Query..."
@@ -21,6 +21,7 @@ Note: if this one doesn't work, try running the code one-by-one, in order:
 [Demonstration videos here of the program's functions.](https://drive.google.com/drive/folders/1QbrMHMEj4fN2YEFOq7n-kXQ-3s78e5T_?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
 
 Some notes:
+-**YOU WILL NEED TO FILL THE DATABASE WITH YOUR OWN INFORMATION!**
 -Some database edits were made (such as merging complaints and blotters into case files).
 -CRUD is implemented, but deletion makes use of logical deleting rather than hard deleting.
 
