@@ -31,6 +31,8 @@ Some notes:
 
 -**YOU WILL NEED TO FILL THE DATABASE WITH YOUR OWN INFORMATION!**
 
+-Users are Admins and Staff. Admins conduct user management.
+
 -Some database edits were made (such as merging complaints and blotters into case files).
 
 -CRUD is implemented, but deletion makes use of logical deleting rather than hard deleting.
